@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P2p控制端</string>
+<!--    <string name="host">http://47.102.156.39:5500</string>&lt;!&ndash;139.196.174.85s &ndash;&gt;-->
+    <string name="host">http://192.168.1.133:5500</string><!--139.196.174.85s -->
+<!--    <string name="host">https://45065x1782.eicp.vip</string>&lt;!&ndash;139.196.174.85s &ndash;&gt;-->
+    <string name="port">3000</string>
+    <string name="action_settings">Options</string>
+</resources>
