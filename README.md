@@ -21,3 +21,7 @@ Peer onDataChannel=org.webrtc.DataChannel@bf04e5c
 ![Image text](https://raw.githubusercontent.com/KgdFnYpeu/AndroidP2pTest/805725df89b2afaf3e979ee9310370dd6bfeb434/img/aa.png)
 
 
+
+# 简介
+
+初版能跑通
